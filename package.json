@@ -1,21 +1,14 @@
 {
-  "name": "portfolio",
+  "name": "gulplivereload",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pcyu/portfolio.git"
+    "url": "git+https://github.com/pcyu/gulpboilerplate.git"
   },
   "author": "Peter Yu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pcyu/portfolio/issues"
-  },
-  "homepage": "https://github.com/pcyu/portfolio#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
